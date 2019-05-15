@@ -7,4 +7,3 @@ end
    @this_dogs_name
  end
  end
-  
