@@ -1,4 +1,6 @@
 class Dog
-end
-name= @this_dogs_name
-lassie = Dog.new
+  def name=(dogs_name)
+    @this_dogs_name = dogs_name
+  end
+
+  
